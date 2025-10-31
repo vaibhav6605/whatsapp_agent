@@ -6,5 +6,5 @@ With it, I can search and read my personal WhatsApp messages — including texts
 
 All messages are stored locally in a SQLite database and are only shared with an LLM (like Claude) when I explicitly access them through tools under my control.
 Here's an eample below:
-<img src="./Screenshot 2025-11-01 012054.png" alt="Result" width="300">
-<img src="./Screenshot 2025-11-01 012116.png" alt="Result" width="300">
+<img src="./Screenshot 2025-11-01 012054.png">
+<img src="./Screenshot 2025-11-01 012116.png">
